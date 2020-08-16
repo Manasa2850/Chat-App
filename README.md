@@ -23,4 +23,3 @@ The technology stack is
 3. Person who logs in next can view these messages and can chat using the app
 
 *Reference: Online tutorials*
-!(Chat.gif)
